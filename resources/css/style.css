@@ -1,0 +1,48 @@
+/* Biggest takeaway is that path is relative to the CSS file */
+body {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+.background {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
+.navigation-top {
+  font-size: 18px
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a {
+  color: white;
+  font-size
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.navigation-bottom {
+  font-size: 11px
+}
+
+.footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
